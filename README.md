@@ -1,4 +1,6 @@
 # Library-Management-System-CS157A
+Contributors: Dylan Nguyen, Arianna Gonzalez, Evan Taber
+
 - Project Overview:
 This project is a system to help a library manage its collection of books and members, enable members to check out and return books in the system, and track current book checkouts and any fines acquired by a member.
 
